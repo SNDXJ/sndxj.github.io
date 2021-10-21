@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SNDXJ</title>
+  <icon>http://example.com/icon.png</icon>
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2021-10-05T12:54:02.685Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Guo Yanping</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>rrr</title>
+    <link href="http://example.com/2021/10/05/rrr/"/>
+    <id>http://example.com/2021/10/05/rrr/</id>
+    <published>2021-10-05T12:50:30.000Z</published>
+    <updated>2021-10-05T12:54:02.685Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;啊啊啊啊啊啊啊&lt;br&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="文章" scheme="http://example.com/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+</feed>
