@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-10-24T08:55:54.850Z</updated>
+  <updated>2021-10-24T16:24:26.176Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,25 +17,25 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>ttt</title>
-    <link href="http://example.com/2021/10/24/ttt/"/>
-    <id>http://example.com/2021/10/24/ttt/</id>
-    <published>2021-10-24T08:52:10.000Z</published>
-    <updated>2021-10-24T08:55:54.850Z</updated>
+    <title>认识C语言</title>
+    <link href="http://example.com/2021/10/24/%E8%AE%A4%E8%AF%86C%E8%AF%AD%E8%A8%80/"/>
+    <id>http://example.com/2021/10/24/%E8%AE%A4%E8%AF%86C%E8%AF%AD%E8%A8%80/</id>
+    <published>2021-10-24T14:18:15.000Z</published>
+    <updated>2021-10-24T16:24:26.176Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;pppppp&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;p&gt;作为完全代码零基础的我来说，早之前初学C语言不得不承认真的好“痛苦”，一直在心里默默告诉自己我得认真听，但还是听得很“懵”，不过，经过长时间的摸索，还可以把自己救过来，学到了一点点。&lt;/p&gt;
+&lt;p&gt;C语言的原型ALGOL 60语言，1963年，剑桥大学将ALGOL</summary>
         
       
     
     
     
-    <category term="pwn" scheme="http://example.com/categories/pwn/"/>
+    <category term="C语言" scheme="http://example.com/categories/C%E8%AF%AD%E8%A8%80/"/>
     
     
     <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
