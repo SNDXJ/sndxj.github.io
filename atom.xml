@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-10-24T16:24:26.176Z</updated>
+  <updated>2021-10-31T16:27:31.469Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>pwn入门</title>
+    <link href="http://example.com/2021/10/31/pwn%E5%85%A5%E9%97%A8/"/>
+    <id>http://example.com/2021/10/31/pwn%E5%85%A5%E9%97%A8/</id>
+    <published>2021-10-31T15:36:23.000Z</published>
+    <updated>2021-10-31T16:27:31.469Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;作为一个计算机小白，我选择了学习pwn方向，下面我介绍一下pwn入门的相关准备。&lt;br&gt;首先，学好C语言是必须的，C语言和python是编程语言，不仅说做pwn的题目写代码啥的要用到C语言来写，还有汇编语言，我认为这对于我们学习计算机的同学来说也是必备的技能，即使你自己学习</summary>
+        
+      
+    
+    
+    
+    <category term="pwn了解" scheme="http://example.com/categories/pwn%E4%BA%86%E8%A7%A3/"/>
+    
+    
+    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>认识C语言</title>
@@ -41,46 +68,6 @@
     <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
     
     <category term="hexo" scheme="http://example.com/tags/hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>www</title>
-    <link href="http://example.com/2021/10/21/www/"/>
-    <id>http://example.com/2021/10/21/www/</id>
-    <published>2021-10-21T08:22:14.000Z</published>
-    <updated>2021-10-21T08:22:14.873Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>rrr</title>
-    <link href="http://example.com/2021/10/05/rrr/"/>
-    <id>http://example.com/2021/10/05/rrr/</id>
-    <published>2021-10-05T12:50:30.000Z</published>
-    <updated>2021-10-05T12:54:02.685Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;啊啊啊啊啊啊啊&lt;br&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    <category term="文章" scheme="http://example.com/categories/%E6%96%87%E7%AB%A0/"/>
-    
-    
-    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
-    <category term="测试" scheme="http://example.com/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
